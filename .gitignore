@@ -1,2 +1,4 @@
 logs/
-main.log*.log
+main.log
+*.log
+bin/
